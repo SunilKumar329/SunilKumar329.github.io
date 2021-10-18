@@ -2,3 +2,12 @@
   text-align: center;
   color : red;
 }
+.image {
+  height: 300px;
+  width: 200px;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  /* border-radius: 50%; */
+}
