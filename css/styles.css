@@ -10,6 +10,8 @@ body {
 .header {
   text-align: center;
   color : red;
+  font-style: oblique;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .image {
@@ -20,4 +22,9 @@ body {
   margin-right: auto;
   display: block;
   /* border-radius: 50%; */
+}
+.progress {
+  text-align: center;
+  text-overflow: calc();
+  text-decoration-color: cyan;
 }
