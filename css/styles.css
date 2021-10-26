@@ -9,7 +9,7 @@ body {
 
 .header {
   text-align: center;
-  color : red;
+  color : blue;
   font-style: oblique;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
@@ -25,6 +25,10 @@ body {
 }
 .progress {
   text-align: center;
+  text-size-adjust: 25px;
   text-overflow: calc();
   text-decoration-color: cyan;
+}
+.my button{
+  text-align:center;
 }
